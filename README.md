@@ -2,4 +2,4 @@
 
 This is a sample readme file
 
-Added  some more text.
+This is bound to cause trouble on the very_bad branch
